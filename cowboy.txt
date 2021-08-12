@@ -1,0 +1,33 @@
+Town
+  - Saloon
+    * Bartender
+    * Waitress
+    * Black Jacker Dealer
+    * Black Jacker Players
+    * Piano Player
+  - Bank
+    * Bank Teller
+    * Manager
+  - Butcher
+    * Butcher
+    * Butcher's Wife
+  - Doctor/Pharmacy
+    * Pharmacy clerk
+    * Doctor
+  - Stable
+    * Stableman
+    * Stableboy
+  - Hotel
+Forest
+Plains
+Mountian Cave, find gold
+Pockey valley, find gold
+Path along river, shoot out with cougar
+Ranch
+Ranch Stables
+On the range with cattle
+Cattle drive
+Shotgun on stage coach
+Shoot out with young kid looking for rep
+
+
